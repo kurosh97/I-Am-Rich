@@ -2,7 +2,7 @@
 In here I will be working mainly on basics of Xcode and design. 
 
 
-## Description
+## Description/Story
 Making a pipboy from Fallout 4 like webpage.  
 
 
