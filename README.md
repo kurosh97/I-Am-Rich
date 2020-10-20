@@ -1,5 +1,4 @@
 # I-Am-Rich
-In here I will be working mainly on basics of Xcode and design. 
 
 
 ## Description/Story
