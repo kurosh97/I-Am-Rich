@@ -9,9 +9,9 @@ Making a pipboy from Fallout 4 like webpage.
 ### Prerequisites
 To get started you need:
 <ul>
-  <li>A computer</li>
+  <li>A MAC computer</li>
   <li>Connection to the internet</li>
-  <li>Your favorite code editor that suits your web. (VSCode) recommended</li>
+  <li>XCode</li>
 </ul>
 
 ### Usage
@@ -23,13 +23,8 @@ To get started you need:
 2. Clone or download Zip:
   
 ```sh 
-  $ git clone git@github.com:kurosh97/Pipboy-Fallout4.git
+  $ git clone git@github.com:kurosh97/I-Am-Rich.git
 ```
 <br/>
-3. Check bootstraps documentation:
 
-```sh 
-$ https://getbootstrap.com/docs/4.5/getting-started/introduction/
-```
-<br/>
 
