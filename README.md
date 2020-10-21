@@ -4,7 +4,7 @@
 ## Description/Story
 In this project, I will be doing an "I Am Rich" like the app and the story behind it goes like this. So there was a guy called Amin Heinrich who created an app called I Am Rich on August 5, 2008; 12 years ago. His app was put in the art and lifestyle category but he charged 999.99$ and all it does is it just displays an image on the screen. 
 
-The app didn't function or do anything but ended up being bought by eight people. Well, in the end, the apple store removed this app but you can still find it on the internet.
+The app didn't function or do anything but ended up being bought by eight people. Well, in the end, the apple store removed this app but you can still find it on the internet. You can find more information in here...http://github.com - automatic!
 
 
 ### Prerequisites
